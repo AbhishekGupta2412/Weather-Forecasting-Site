@@ -1,4 +1,4 @@
-const apiKey = "66f25da16e72af6e5e9658b396b4a8de"; // Replace with your actual API key
+const apiKey = "d1fe4a88c0a2030d1f95e1754cf571bf"; // Replace with your actual API key
 
 document.getElementById("getWeather").addEventListener("click", function () {
   const location = document.getElementById("location").value;
